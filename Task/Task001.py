@@ -1,0 +1,1 @@
+print("Pramod",123,"Amit",sep='*',end="_")
