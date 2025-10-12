@@ -36,5 +36,13 @@ age = "Selenium Python"
 #aa123 is fine (alphanumeric)
 
 
+# Variables can be created  -IOL -- Identifier, Operator and Litera l
+
+# Ex: Age  = 60
+
+# Age is Identifier
+# Operator is  =
+
+# Literal is  value
 
 
