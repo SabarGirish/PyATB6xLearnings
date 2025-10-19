@@ -3,7 +3,7 @@
 num1 = int(input("Enter your first number \n").strip())
 num2 = int(input("Enter your second number \n").strip())
 
-if
+
 
 if num1 >= num2:
     print("Maximum", num1)

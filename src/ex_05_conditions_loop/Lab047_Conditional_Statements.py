@@ -13,10 +13,15 @@ else:
 Strip() - In built function  which will return a copy of a string with leading
 and trailing whitespace removed.
 
+Switch -- There is no Traditional switch statement  like c, java or java script -
+but there are several ways to achieve the same functionality
+
+instead of this  in python 3.0 we have  match case
+
 """
 
 
-""" Write a program to tkae user age and let him know , if he can go to club"""
+""" Write a program to take user age and let him know , if he can go to club"""
 
 # Step1
 Age = int(input("Enter your age \n"))
