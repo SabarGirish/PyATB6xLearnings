@@ -8,8 +8,5 @@ else:
     print("The number entered by the user is less than 100")
 
 
-""" O/p is  Enter a number: 101
-The number entered by the user is greater than 100"""
-
 
 

@@ -11,4 +11,4 @@ height = 5
 Area = 1/2 * (base * height)
 print("Area of Triangle is :", Area)
 
-""" O/p   Area of Triangle is : 25.0"""
+
