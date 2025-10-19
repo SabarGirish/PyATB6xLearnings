@@ -16,7 +16,7 @@ print(num1 / num2)
 
 print(num1 // num2)
 
-""" nter the second number: 40
+""" Enter the second number: 40
 70.0
 -10.0
 1200.0
